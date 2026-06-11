@@ -1,0 +1,42 @@
+{
+  "version": "0.1.1-20260611",
+  "scheme": "gonnyufennixyulufa",
+  "name": "赣语-分宜版",
+  "files": [
+    {
+      "path": "gonnyufennixyulufa.schema.yaml",
+      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa.schema.yaml",
+      "sha256": "88c6b44e4109979b19655f86fd4e34ad3ab2645244b7afd6660cb18eae5d6f74"
+    },
+    {
+      "path": "gonnyufennixyulufa.dict.yaml",
+      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa.dict.yaml",
+      "sha256": "311132e07d6ca3ceca60022ee86ecab49f35eacb6f1e4a30ff134169f646fdc5"
+    },
+    {
+      "path": "gonnyufennixyulufa_auxiliary_comments.tsv",
+      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa_auxiliary_comments.tsv",
+      "sha256": "fba0e968cd966f3bcc6ebaccf453cb7d5e531d858b29dcb3da86aa67b3874028"
+    },
+    {
+      "path": "gonnyufennixyulufa_auxiliary_pinyin.schema.yaml",
+      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa_auxiliary_pinyin.schema.yaml",
+      "sha256": "b0ef3150026e4e927ff6198247738342a6de605bc15f61ea6e908e3af35056e2"
+    },
+    {
+      "path": "gonnyufennixyulufa_koinese_pinyin.dict.yaml",
+      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa_koinese_pinyin.dict.yaml",
+      "sha256": "28d5d2dd81c5cf439072665b10cd7b3d0eca17ac55ed4bbbc058fd97025e7fd5"
+    },
+    {
+      "path": "gonnyufennixyulufa_koinese_pinyin.schema.yaml",
+      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa_koinese_pinyin.schema.yaml",
+      "sha256": "e83ee570689d615818d4dbe89207216410d340dc1e01e3d691ce0f53e76690f5"
+    },
+    {
+      "path": "rime.lua",
+      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/rime.lua",
+      "sha256": "a9b37c514f4e6e22293f714a519d19a81a069b3e5d6a7b6491349881758be44c"
+    }
+  ]
+}
