@@ -3,13 +3,13 @@
 
 schema:
   schema_id: gonnyufennixyulufa
-  name: 赣语分宜输入法
-  version: '0.1.0-20260610'
+  name: 赣语-分宜版
+  version: '0.1.1-20260611'
   author:
     - 贛語通訊社
   description: |
-    赣语分宜输入法 Rime 方案。
-    以赣西分宜音数据为基础，作为独立方案维护。
+    赣语-分宜版 Rime 方案。
+    以“赣语-昌宜兼容”现行词库为底本，作为分宜话独立方案维护。
     需要配合 gonnyufennixyulufa.dict.yaml 使用。
   dependencies:
     - stroke
