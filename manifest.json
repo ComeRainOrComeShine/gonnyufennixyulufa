@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1-20260611",
+  "version": "0.1.2-20260611",
   "scheme": "gonnyufennixyulufa",
   "name": "赣语-分宜版",
   "files": [
@@ -21,17 +21,7 @@
     {
       "path": "gonnyufennixyulufa_auxiliary_pinyin.schema.yaml",
       "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa_auxiliary_pinyin.schema.yaml",
-      "sha256": "b0ef3150026e4e927ff6198247738342a6de605bc15f61ea6e908e3af35056e2"
-    },
-    {
-      "path": "gonnyufennixyulufa_koinese_pinyin.dict.yaml",
-      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa_koinese_pinyin.dict.yaml",
-      "sha256": "28d5d2dd81c5cf439072665b10cd7b3d0eca17ac55ed4bbbc058fd97025e7fd5"
-    },
-    {
-      "path": "gonnyufennixyulufa_koinese_pinyin.schema.yaml",
-      "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa_koinese_pinyin.schema.yaml",
-      "sha256": "e83ee570689d615818d4dbe89207216410d340dc1e01e3d691ce0f53e76690f5"
+      "sha256": "d6e259c1d177d92ffd416ee570f9e66e942e7f62abacfc5f8f0b41eceb176dff"
     },
     {
       "path": "rime.lua",
