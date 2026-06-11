@@ -1,0 +1,5 @@
+patch:
+  schema_list:
+    - schema: gonnyufennixyulufa
+    - schema: gonnyufennixyulufa_auxiliary_pinyin
+    - schema: gonnyufennixyulufa_koinese_pinyin

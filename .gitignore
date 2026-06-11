@@ -1,0 +1,8 @@
+*.bin
+*.reverse.bin
+*.table.bin
+*.prism.bin
+build/
+user.yaml
+installation.yaml
+sync/
