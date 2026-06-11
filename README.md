@@ -10,7 +10,6 @@
 
 - `gonnyufennixyulufa`：赣语分宜输入法主方案
 - `gonnyufennixyulufa_auxiliary_pinyin`：普通话拼音反查分宜读音
-- `gonnyufennixyulufa_koinese_pinyin`：分宜基础音辅助方案
 
 ## 安装
 
@@ -24,7 +23,6 @@ patch:
   schema_list:
     - schema: gonnyufennixyulufa
     - schema: gonnyufennixyulufa_auxiliary_pinyin
-    - schema: gonnyufennixyulufa_koinese_pinyin
 ```
 
 保存后重新部署 Rime。
