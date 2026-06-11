@@ -3,13 +3,13 @@
 
 schema:
   schema_id: gonnyufennixyulufa_auxiliary_pinyin
-  name: 赣语分宜辅助输入法
+  name: 赣语-分宜版辅助输入法
   version: '0.1.0'
   author:
     - 贛語通訊社
   description: |
     普通话拼音反查赣语音的辅助输入方案。
-    用普通话拼音输入汉字，候选注释显示“赣语分宜输入法”的拼音。
+    用普通话拼音输入汉字，候选注释显示“赣语-分宜版”的拼音。
   dependencies:
     - stroke
     - gonnyufennixyulufa_koinese_pinyin
