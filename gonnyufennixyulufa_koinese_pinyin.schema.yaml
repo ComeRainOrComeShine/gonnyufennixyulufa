@@ -3,12 +3,12 @@
 
 schema:
   schema_id: gonnyufennixyulufa_koinese_pinyin
-  name: 赣语分宜输入法（基础音）
+  name: 赣语-分宜版（基础音）
   version: '0.1.6-sync-20260610'
   author:
     - 贛語通訊社
   description: |
-    赣语分宜输入法（基础音） Rime 方案 v0.1.1。
+    赣语-分宜版（基础音） Rime 方案 v0.1.1。
     当前以分宜话拼音数据为主要底本，含 7000 常用字读音和通用词频词库。
     需要配合 gonnyufennixyulufa_koinese_pinyin.dict.yaml 使用。
   dependencies:
