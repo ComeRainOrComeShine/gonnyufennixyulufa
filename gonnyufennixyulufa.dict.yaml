@@ -14,15 +14,17 @@ use_preset_vocabulary: true
 丁	diang	120000
 七	qi	120000
 丈	jiong	120000
+丈	dong	120000
 三	san	120000
 上	xiong	258101
+上	song	258101
 下	ha	120000
 不	bei	360331
 丐	goi	120000
 专	jon	120000
 专	don	30000
-且	qia	120000
 且	qie	30000
+且	qia	120000
 丕	pi	120000
 世	si	120000
 丘	qiu	120000
@@ -50,15 +52,15 @@ use_preset_vocabulary: true
 乃	lai	120000
 久	jiu	120000
 么	me	120000
-么	mo	30000
 义	ni	120000
 之	zi	140957
 乌	wu	120000
 乍	zang	120000
+乍	za	120000
 乎	fu	120000
-乏	fai	120000
 乏	fa	30000
 乐	lo	120000
+乐	nyue	30000
 乒	pin	30000
 乓	pon	30000
 乓	pong	7500
@@ -78,6 +80,7 @@ use_preset_vocabulary: true
 了	lieu	220908
 予	yu	120000
 争	zang	120000
+争	dang	120000
 事	su	120000
 事	si	30000
 于	yu	120000
@@ -96,6 +99,7 @@ use_preset_vocabulary: true
 亥	hoi	120000
 亦	yi	120000
 产	can	120000
+产	san	120000
 亩	meu	30000
 京	jin	34488
 亭	tin	120000
@@ -124,7 +128,7 @@ use_preset_vocabulary: true
 仇	ceu	120000
 仉	jiong	120000
 今	jin	30000
-介	kai	30000
+介	gai	30000
 仍	len	120000
 仑	len	120000
 仓	cong	120000
@@ -225,7 +229,7 @@ use_preset_vocabulary: true
 佩	pi	120000
 佯	yong	120000
 佰	me	120000
-佳	ka	30000
+佳	ga	30000
 佴	e	120000
 佴	lai	30000
 佴	len	24000
@@ -256,7 +260,6 @@ use_preset_vocabulary: true
 供	jiung	30000
 依	yi	30000
 侠	ha	120000
-侠	xia	30000
 侣	lyu	30000
 侥	lieu	12000
 侥	dieu	3000
@@ -301,7 +304,7 @@ use_preset_vocabulary: true
 俦	qiu	30000
 俨	ngien	120000
 俪	li	30000
-俭	gan	30000
+俭	jien	30000
 修	xiu	120000
 俯	fu	120000
 俱	jyu	30000
@@ -323,12 +326,11 @@ use_preset_vocabulary: true
 倘	tong	30000
 候	heu	31521
 倚	qi	30000
-倚	yi	7500
 倜	ti	120000
 倞	jin	30000
 借	jia	120000
 倡	qiong	120000
-倡	cong	30000
+倡	tong	120000
 倥	kung	120000
 倦	jon	30000
 倨	jyu	30000
@@ -343,6 +345,7 @@ use_preset_vocabulary: true
 倭	fo	2400
 倭	do	2000
 债	zai	120000
+债	cai	120000
 值	zi	120000
 值	di	30000
 倾	qin	120000
@@ -426,13 +429,13 @@ use_preset_vocabulary: true
 兢	jin	30000
 入	lu	120000
 八	bai	120000
-八	bak	30000
 公	gung	45604
 六	liu	30000
 兮	xie	12000
 兮	wa	3000
 兰	lan	30000
 关	kuan	32105
+关	guan	32105
 兴	xin	120000
 兵	bin	120000
 其	qi	71322
@@ -447,10 +450,8 @@ use_preset_vocabulary: true
 兽	seu	120000
 冀	yi	30000
 内	nyu	120000
-内	lei	30000
 冉	len	120000
 册	ca	120000
-册	ce	30000
 再	zoi	55507
 冒	mau	120000
 冕	mien	120000
@@ -467,8 +468,7 @@ use_preset_vocabulary: true
 冰	bin	30000
 冱	fu	30000
 冲	qiung	120000
-决	ko	120000
-决	jyue	30000
+决	go	120000
 况	kuong	32833
 冷	lang	30000
 冽	lie	30000
@@ -495,6 +495,7 @@ use_preset_vocabulary: true
 凶	xiung	120000
 凸	tu	30000
 出	qyu	120000
+出	tu	120000
 击	ji	30000
 函	hon	30000
 凿	zau	120000
@@ -518,6 +519,7 @@ use_preset_vocabulary: true
 刘	liu	30000
 则	ze	32160
 创	cong	120000
+创	tong	120000
 初	qyu	120000
 初	cu	30000
 删	son	120000
@@ -593,8 +595,8 @@ use_preset_vocabulary: true
 务	wu	120000
 劢	mai	30000
 劣	lie	30000
-助	qyu	120000
 助	jyu	30000
+助	tu	120000
 努	lu	120000
 劫	jie	30000
 劬	jyu	30000
@@ -638,7 +640,6 @@ use_preset_vocabulary: true
 匕	bi	30000
 化	fa	34860
 北	be	34488
-北	bek	7500
 匙	si	30000
 匜	qi	30000
 匜	ci	7500
@@ -670,8 +671,8 @@ use_preset_vocabulary: true
 卓	zo	30000
 单	dan	30000
 卖	mai	30000
-南	lang	120000
 南	lan	30000
+南	lang	120000
 博	bo	60000
 卜	bu	30000
 卞	pien	12000
@@ -712,6 +713,7 @@ use_preset_vocabulary: true
 厍	xia	120000
 厍	ci	30000
 厕	ce	120000
+厕	te	120000
 厘	li	30000
 厚	heu	30000
 厝	co	12000
@@ -729,7 +731,7 @@ use_preset_vocabulary: true
 厩	yiu	7500
 厮	su	30000
 去	qie	123402
-县	xon	30000
+县	xyuon	30000
 叁	san	30000
 参	can	120000
 叉	ca	120000
@@ -755,7 +757,6 @@ use_preset_vocabulary: true
 叩	kieu	30000
 只	zi	101442
 叫	jieu	43431
-叫	jeu	10857
 召	zeu	30000
 叭	ba	30000
 叮	diang	30000
@@ -793,7 +794,6 @@ use_preset_vocabulary: true
 吞	teng	30000
 吟	yin	30000
 吠	fi	30000
-吠	fei	7500
 吡	pi	12000
 吡	bi	3000
 吡	mi	2400
@@ -834,7 +834,7 @@ use_preset_vocabulary: true
 呙	wa	12000
 呙	wo	3000
 呜	wu	30000
-呢	le	120000
+呢	ni	120000
 呤	lin	30000
 呤	liang	7500
 呤	lang	6000
@@ -861,6 +861,7 @@ use_preset_vocabulary: true
 咆	pau	30000
 咋	zang	120000
 和	ho	555815
+和	wo	555815
 咎	gau	12000
 咎	hau	3000
 咎	jiu	2400
@@ -1611,6 +1612,7 @@ use_preset_vocabulary: true
 孓	gai	2000
 孕	yun	30000
 字	cu	30000
+字	tu	30000
 存	ceng	30000
 孙	sen	30000
 孚	fu	30000
@@ -1659,10 +1661,10 @@ use_preset_vocabulary: true
 宗	zeng	30000
 宙	zeu	30000
 定	tiang	32770
-定	tin	7500
 宝	bau	30000
 实	si	60000
 宠	qiung	120000
+宠	teng	120000
 审	sen	30000
 客	ka	30000
 客	kie	7500
@@ -1720,7 +1722,6 @@ use_preset_vocabulary: true
 尉	wei	30000
 尊	zeng	30000
 小	xieu	57969
-小	xi	14492
 少	seu	30000
 尖	jien	30000
 尘	cen	30000
@@ -1851,7 +1852,8 @@ use_preset_vocabulary: true
 峰	feng	30000
 峻	jyun	30000
 崃	loi	30000
-崇	qiung	30000
+崇	ceng	30000
+崇	teng	30000
 崎	qi	30000
 崔	cei	30000
 崖	ngai	30000
@@ -2646,7 +2648,7 @@ use_preset_vocabulary: true
 拭	si	30000
 拮	jie	30000
 拮	ji	7500
-拯	zeng	30000
+拯	zen	30000
 拱	gung	30000
 拴	son	30000
 拶	co	12000
@@ -2720,7 +2722,7 @@ use_preset_vocabulary: true
 捺	lai	30000
 捺	lak	7500
 捻	nien	30000
-掀	xon	30000
+掀	xyuon	30000
 掂	dien	30000
 掇	pai	12000
 掇	co	3000
@@ -2790,6 +2792,7 @@ use_preset_vocabulary: true
 揠	nga	30000
 握	wo	30000
 揣	coi	30000
+揣	toi	30000
 揩	kai	30000
 揪	jiu	30000
 揭	gai	30000
@@ -3006,7 +3009,6 @@ use_preset_vocabulary: true
 旗	qi	30000
 既	ji	30000
 日	ni	78695
-日	li	19673
 旦	tan	30000
 旧	qiu	30000
 旨	zi	30000
@@ -4619,6 +4621,7 @@ use_preset_vocabulary: true
 猥	mi	2000
 猩	xin	30000
 猪	jyu	30000
+猪	du	30000
 猫	mieu	30000
 猬	wei	30000
 献	xien	30000
@@ -344799,23 +344802,13 @@ use_preset_vocabulary: true
 𠮶	go	150000
 布	pu	30000
 断	ton	30000
-上	song	258101
-专	zuon	120000
-乍	za	120000
-八	ba	120000
-关	guan	32105
 冇	mau	90000
-净	qiang	120000
-十	set	120000
-十	xi	120000
 吾	ngo	90000
 咁	gong	90000
 囥	kang	90000
-师	si	30000
 徛	qi	90000
 擐	guan	30000
 昼	jiu	90000
-棒	pong	30000
 渑	cen	30000
 狮	si	30000
 纾	su	30000
@@ -365946,7 +365939,6 @@ use_preset_vocabulary: true
 落心	lo xin	60000
 打罗	da lo	60000
 应	nien	30000
-水	fi	30000
 线车	xien qia	60000
 线车	xien ca	60000
 学堂	ho long	60000
@@ -366012,7 +366004,6 @@ use_preset_vocabulary: true
 㦿	kang	60000
 今	jia	60000
 咕	gu	60000
-士	su	60000
 後	heu	60000
 捩	lie	60000
 晨	sen	60000
@@ -366021,6 +366012,7 @@ use_preset_vocabulary: true
 蕹	weng	60000
 间	kan	60000
 畅	qiong	30000
+畅	tong	30000
 腔	qiong	30000
 盈	yang	30000
 象	xiong	30000
@@ -366069,11 +366061,11 @@ use_preset_vocabulary: true
 古	gu	30000
 中	jiung	243191
 主	jyu	120000
-乐	nyue	30000
 乳	nyu	30000
 亍	qyu	120000
 交	gau	30000
 他	ta	401339
+他	gie	401339
 众	qiung	120000
 佑	yiung	120000
 侏	jyu	120000
@@ -366086,11 +366078,9 @@ use_preset_vocabulary: true
 割	goi	30000
 又	yiu	150749
 丑	ceu	120000
-丑	qiu	30000
 东	deng	120000
 乘	cen	120000
 书	xyu	120000
-书	su	120000
 二	e	120000
 亡	wong	120000
 什	xia	120000
@@ -366099,7 +366089,7 @@ use_preset_vocabulary: true
 作	zo	120000
 侦	zen	120000
 元	yon	30000
-元	nyuon	30000
+元	nien	30000
 兄	xiang	120000
 全	qon	120000
 全	ton	30000
@@ -366112,16 +366102,16 @@ use_preset_vocabulary: true
 凹	ngau	30000
 凹	au	30000
 动	teng	30000
-动	tung	30000
 匀	yun	30000
 叔	xu	120000
+叔	xyu	120000
 可	ko	95892
 可	kie	95892
 司	su	60000
 司	si	60000
 吭	kang	30000
 吭	kien	30000
-吻	wun	120000
+吻	wen	120000
 呛	qiong	30000
 唱	qiong	30000
 商	xiong	30000
