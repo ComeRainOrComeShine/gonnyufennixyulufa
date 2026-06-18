@@ -9,7 +9,7 @@ schema:
     - 贛語通訊社
   description: |
     赣语-分宜版 Rime 方案。
-    以“赣语-昌宜兼容”现行词库为底本，作为分宜话独立方案维护。
+    分宜话独立维护方案，后续更新只进入分宜版词库。
     需要配合 gonnyufennixyulufa.dict.yaml 使用。
   dependencies:
     - stroke
