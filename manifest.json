@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4-20260618",
+  "version": "0.1.7-20260622",
   "scheme": "gonnyufennixyulufa",
   "name": "赣语-分宜版",
   "files": [
@@ -11,12 +11,12 @@
     {
       "path": "gonnyufennixyulufa.dict.yaml",
       "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa.dict.yaml",
-      "sha256": "b5fd6a91945a46354eef1df117131fd3a6c7ecbd05bbc0a25cf52caeb068a15a"
+      "sha256": "a6aeaf100cbf494563771c8273a20030e5950434cab04108031ad4c078d54ba5"
     },
     {
       "path": "gonnyufennixyulufa_auxiliary_comments.tsv",
       "url": "https://raw.githubusercontent.com/ComeRainOrComeShine/gonnyufennixyulufa/main/gonnyufennixyulufa_auxiliary_comments.tsv",
-      "sha256": "c50cb03bde9c7e88f26b4542b31d9147a1220e70e6c54331572ad6bd92dfab04"
+      "sha256": "c982d5f964032e842ee4c9e7955f32be4910a569b63ea4483e7bcab344972239"
     },
     {
       "path": "gonnyufennixyulufa_auxiliary_pinyin.schema.yaml",
